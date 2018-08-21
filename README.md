@@ -33,6 +33,6 @@ This server will only be available for grading until 15/09/2018
 
 ## Third Party Resources Used
 
-[mediatemple](https://mediatemple.net/community/products/dv/204643810/how-do-i-disable-ssh-login-for-the-root-user) - Tutorial on how to disable root login.
-[Ubuntu Help](https://help.ubuntu.com/lts/serverguide/firewall.html.en) - Documentation on ```ufw``` firewall.
-[Ubuntu Packages](https://packages.ubuntu.com/) - Searching for packages to install.
+- [mediatemple](https://mediatemple.net/community/products/dv/204643810/how-do-i-disable-ssh-login-for-the-root-user) - Tutorial on how to disable root login.
+- [Ubuntu Help](https://help.ubuntu.com/lts/serverguide/firewall.html.en) - Documentation on ```ufw``` firewall.
+- [Ubuntu Packages](https://packages.ubuntu.com/) - Searching for packages to install.
